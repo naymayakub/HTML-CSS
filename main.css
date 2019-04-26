@@ -1,24 +1,23 @@
-
-
-
-
-.container{
-	align-items: center;
-	width:400px;
-	padding:20px;
-	align-content: center;
-
-
- }
- .naima{
- 	width:400px;
- 	color: orange;
-
+body{
+	background-color: rgb(247, 230, 254);
 }
-.shella{
-	width: 900px;
-	color: green;
+.img{
+	width: 240px;
+	height: 180px;
+	float: left;
+	
+}
+.two{
+	float: left;
+	background-color: white;
+	border: 1px solid gray;
 	padding: 20px;
-
-
+	
+}
+.all{
+	width: 700px;
+	margin: 0 auto;
+	padding: 20px;
+	
+	
 }
